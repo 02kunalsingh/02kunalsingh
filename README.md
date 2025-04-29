@@ -1,6 +1,6 @@
 # Hi, I'm Kunal 👋
 
-🎓 MCA Student | 👨‍💻 Flutter & React Developer | ☁️ Firebase Enthusiast
+🎓 MCA Student | 👨‍💻 Flutter & Java Developer | ☁️ Firebase Enthusiast
 
 ✅ Recently completed: Hunger – a multi-role food ordering app using Flutter + Firebase
 
